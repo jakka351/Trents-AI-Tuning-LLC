@@ -409,6 +409,8 @@ Please allow additional time for technical enquiries requiring an image to be up
 
 **We have absolutely no idea where they are.**
 
+</div>
+
 ---
 
 
@@ -721,7 +723,6 @@ Preferably behind a reinforced concrete barrier.
 
 *Fictional satirical document. Not actual terms of service.*
 
-</div>
 
 
 © 2026 Trents AI Tuning LLC™  
