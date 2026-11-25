@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/f86d0a62-988d-47c8-a6db-bba3bbf2084a" />
+<img width="15%" height="15%" alt="image made by chatgpt" src="https://github.com/user-attachments/assets/f86d0a62-988d-47c8-a6db-bba3bbf2084a" />
 
 ### Artificial Intelligence • Artificial Experience • Artificial Horsepower
 
