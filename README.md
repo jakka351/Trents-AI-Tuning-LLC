@@ -27,7 +27,6 @@
 
 # Intellectual Property & Extremely Serious Engineering Disclaimer
 
-<sup>  
 This document, all of the engineering work allegedly behind it, and the approximately 47 ChatGPT conversations required to produce it are the sacred intellectual property of Trent’s AI Tuning LLC, authored by Trenton "AI" Hill with the assistance of a blinking cursor and the unwavering confidence of someone who has successfully opened a binary file in a hex editor.    <br/>
  <br/> 
 Copyright © 2026 Trent’s AI Tuning LLC. All rights reserved. All wrongs pending investigation.   <br/>
@@ -38,12 +37,10 @@ Under no circumstances should anyone independently discover publicly documented 
 
  <br/> <br/> <br/>
 
-</sup>  
 
 # Proprietary Technology & Matters of National Security
 
   <br/> 
-<sup>   
 Several topics in this reference are marked REDACTED. This highly sophisticated information security methodology conveniently allows the author to imply an extraordinary depth of technical understanding without suffering the administrative inconvenience of demonstrating any of it.   <br/>
        <br/>
 The following technologies are classified at the highest level of suburban driveway security:  
@@ -75,7 +72,6 @@ Trent's AI Tuning LLC remains committed to advancing the automotive engineering 
    <br/>
 Engineered in theory. Validated in conversation. Protected by confidence. <br/>
    <br/>
-<</sup> 
 
  <br/>
 
