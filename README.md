@@ -28,9 +28,9 @@
 # Intellectual Property & Extremely Serious Engineering Disclaimer
 
 <sup>  
-This document, all of the engineering work allegedly behind it, and the approximately 47 ChatGPT conversations required to produce it are the sacred intellectual property of Trent’s Tuning LLC, authored by Trenton Hill with the assistance of a blinking cursor and the unwavering confidence of someone who has successfully opened a binary file in a hex editor.    <br/>
+This document, all of the engineering work allegedly behind it, and the approximately 47 ChatGPT conversations required to produce it are the sacred intellectual property of Trent’s AI Tuning LLC, authored by Trenton "AI" Hill with the assistance of a blinking cursor and the unwavering confidence of someone who has successfully opened a binary file in a hex editor.    <br/>
  <br/> 
-Copyright © 2026 Trent’s Tuning LLC. All rights reserved. All wrongs pending investigation.   <br/>
+Copyright © 2026 Trent’s AI Tuning LLC. All rights reserved. All wrongs pending investigation.   <br/>
   <br/> 
 You are welcome to read this document, admire its formatting, and marvel at the sheer number of technical acronyms. You may not copy it, repackage it, resell it, or feed it back into the same large language model from which it may or may not have originated.   <br/>
    <br/>
@@ -71,7 +71,7 @@ The objective of this reference is to educate tuners and students about the genu
    <br/>
 Readers seeking further technical clarification are encouraged to consult the original semiconductor documentation, established engineering literature, or simply ask ChatGPT themselves and eliminate the middleman. <br/>
    <br/>
-Trent's Tuning LLC remains committed to advancing the automotive engineering industry through proprietary terminology, aggressive copyright declarations, strategic redaction and the revolutionary practice of confusing knowing about something with knowing how it works. <br/>
+Trent's AI Tuning LLC remains committed to advancing the automotive engineering industry through proprietary terminology, aggressive copyright declarations, strategic redaction and the revolutionary practice of confusing knowing about something with knowing how it works. <br/>
    <br/>
 Engineered in theory. Validated in conversation. Protected by confidence. <br/>
    <br/>
