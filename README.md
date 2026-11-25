@@ -411,6 +411,319 @@ Please allow additional time for technical enquiries requiring an image to be up
 
 ---
 
+
+# TERMS OF SERVICE
+### TRENT"S AI TUNING™ LLC
+*Maximum Intellectual Property. Minimum Intellectual Responsibility.*
+
+**Effective Date:** Whenever Mum finished proofreading it.
+
+**Document Classification:** Proprietary & Confidential Legal Horsepower
+
+**Authored by:** ChatGPT, acting General Counsel, Chief Engineer and basically everyone else.
+
+By purchasing our services, opening our emails, visiting our website, or making accidental eye contact with our GitHub repository, you ("The Financially Responsible Party") agree to the following Terms of Service with Trent's AI Tuning™ LLC ("The Irresponsible Party").
+
+If you disagree with these Terms, please refrain from purchasing our products, questioning our expertise, or interrupting our highly sophisticated revenue collection process.
+
+---
+
+## 1. Scope of Services
+
+We provide world-class automotive calibration, advanced ECU development, embedded systems research and a comprehensive range of other services that sound significantly more impressive than what we actually do.
+
+Our engineering methodology incorporates proprietary artificial intelligence, extensive Googling and the occasional opening of a binary file.
+
+All services are provided exclusively for competition use, primarily because the word "competition" sounds professional and conveniently appears to solve several legal problems.
+
+The scope of our services does not extend to accepting responsibility for our services.
+
+---
+
+## 2. Competition Use Only & Emissions
+
+All calibrations are intended exclusively for use on sanctioned closed-circuit competition vehicles, including your 2007 Ford Expedition with child seats, supermarket bags and 247,000 miles on the clock.
+
+By purchasing a calibration, you certify that your completely standard daily-driven automatic pickup truck is, in fact, a purpose-built professional motorsport vehicle.
+
+Your commute to Walmart is now classified as a qualifying session.
+
+We will not modify or disable emissions systems.
+
+Any resemblance between an emissions-related malfunction and a modification made immediately beforehand is purely coincidental and shall be investigated exclusively by somebody else.
+
+You accept full responsibility for compliance with all federal, state, local, environmental, interplanetary and applicable Galactic Federation regulations.
+
+Our responsibilities conclude approximately where your payment confirmation begins.
+
+---
+
+## 3. Risk, Liability & Warranty
+
+Performance tuning may result in:
+
+- Mechanical failure.
+- Transmission failure.
+- Electrical failure.
+- Financial failure.
+- Marital failure.
+- Spontaneous engine disassembly.
+- Unscheduled piston relocation.
+- External crankshaft inspection.
+- Rapid conversion of your connecting rods into geographical landmarks.
+- A permanent reduction in the number of functioning cylinders.
+
+You acknowledge that all positive outcomes are attributable to our proprietary engineering expertise.
+
+All negative outcomes are attributable to your vehicle, your fuel, your mechanic, the previous tuner, atmospheric conditions, manufacturing tolerances, or your fundamental inability to appreciate advanced calibration strategies.
+
+Under no circumstances shall our calibration be considered a contributing factor to anything whatsoever.
+
+Even if the failure occurs during installation of our calibration, we reserve the right to describe this as an existing mechanical issue that our advanced software merely helped identify.
+
+This constitutes an additional diagnostic service for which you may be invoiced.
+
+Our warranty covers the successful transmission of an email attachment.
+
+Nothing contained within the attachment is warranted.
+
+---
+
+## 4. Absolutely No Fucking Refunds
+
+All sales are final.
+
+Due to the proprietary, digital and highly sophisticated nature of our products, refunds are fundamentally incompatible with our business model.
+
+Once a calibration file has been delivered, we consider our engineering obligations fulfilled, irrespective of whether the file:
+
+- Works.
+- Opens.
+- Matches your vehicle.
+- Contains valid calibration data.
+- Causes your vehicle to start.
+- Causes your vehicle to stop starting.
+- Was accidentally generated for a completely different engine.
+
+Unlike physical products, digital products cannot be returned because, according to our extensive legal research, computers are mysterious and copying files is irreversible.
+
+We cannot possibly recover the seventeen seconds spent generating your calibration.
+
+Your payment, however, can be retained indefinitely.
+
+---
+
+## 5. Tune Delivery & Revisions
+
+Typical turnaround is 24–72 hours, depending on:
+
+- ChatGPT server availability.
+- School attendance requirements.
+- Whether the laptop needs a Windows update.
+- The complexity of your vehicle.
+- The complexity of explaining why we haven't started.
+- Mum's discretionary Wi-Fi policies.
+
+Accurate vehicle information must be provided before development commences.
+
+Customers are expected to supply complete hardware specifications, calibration identifiers, strategy information, datalogs, mechanical condition reports and any other information we might need to paste into ChatGPT.
+
+Revisions are available at our discretion.
+
+Our standard revision methodology consists of changing the filename from:
+
+`CUSTOM_FINAL.bin`
+
+to:
+
+`CUSTOM_FINAL_V2_ACTUAL_FINAL_REVISED.bin`
+
+Additional engineering may be performed if the customer continues complaining.
+
+---
+
+## 6. Intellectual Property & Restrictions
+
+Every calibration file, technical document, hexadecimal number, flowchart, AI-generated paragraph and vaguely automotive-sounding sentence produced by our organisation constitutes our exclusive intellectual property.
+
+This includes information that existed before our organisation, before our birth, and potentially before the invention of the internet.
+
+We reserve exclusive ownership of all knowledge discovered during our extensive investigations into publicly available information.
+
+Customers are strictly prohibited from:
+
+- Copying our work.
+- Distributing our work.
+- Reverse engineering our work.
+- Understanding our work.
+- Comparing our work against publicly available information.
+- Asking another engineer to examine our work.
+- Discovering precisely how little work was involved in our work.
+
+Our company proudly specialises in reverse engineering the proprietary intellectual property of multinational automotive manufacturers.
+
+However, reverse engineering our proprietary intellectual property is morally reprehensible, legally unacceptable and frankly a bit fucking rude.
+
+The distinction is simple:
+
+> **When we reverse engineer somebody else's work, it is innovation.**
+>
+> **When somebody reverse engineers our work, it is theft.**
+
+All relevant technical information is classified as **REDACTED**, particularly information we have not yet managed to understand.
+
+---
+
+## 7. Indemnification
+
+You agree to indemnify, defend, protect, reimburse, emotionally support and otherwise hold harmless Generative Horsepower Engineering™ LLC, including its:
+
+- Chief Executive Officer.
+- Chief Technology Officer.
+- Chief Calibration Engineer.
+- Director of Reverse Engineering.
+- Head of Research and Development.
+- General Counsel.
+- International Sales Director.
+- Residential Internet Administrator (Mum).
+- ChatGPT.
+
+For administrative efficiency, the first seven positions are occupied by the same person.
+
+In the unlikely event that we are successfully held responsible for something, you agree to compensate us for the inconvenience of being held responsible for it.
+
+Should you initiate legal proceedings against us, you further agree to pay our legal expenses, lost revenue, emotional damages, replacement Monster Energy beverages and any additional ChatGPT tokens consumed preparing our defence.
+
+Under no circumstances shall the company experience a financial consequence arising from its own commercial activities.
+
+That would defeat the entire fucking purpose of this document.
+
+---
+
+## 8. Governing Law & Dispute Resolution
+
+These Terms are governed by the laws of the State of Michigan, selectively interpreted through an AI-generated understanding of American jurisprudence.
+
+Any disputes must be resolved within the appropriate Michigan state or federal courts, unless we discover a more inconvenient jurisdiction.
+
+Prior to commencing litigation, customers must exhaust our internal dispute resolution procedure:
+
+| Stage | Resolution Procedure |
+|---|---|
+| 1 | We request another datalog. |
+| 2 | We identify a mechanical issue. |
+| 3 | We recommend consulting your mechanic. |
+| 4 | We stop replying. |
+| 5 | We remind you that all sales are final. |
+
+Customers challenging our legal position must acknowledge that we have already asked ChatGPT whether this document is legally binding and received a tremendously encouraging response containing several impressive legal terms.
+
+---
+
+## 9. Severability
+
+If any provision of these Terms is found to be unenforceable, unconstitutional, commercially absurd, fundamentally dishonest or otherwise incompatible with the basic principles of civilised society, the remaining provisions shall continue in full effect.
+
+Should every provision be found unenforceable, we shall simply regenerate the document using a more authoritative prompt.
+
+The deletion of one legally questionable paragraph shall not invalidate the other forty legally questionable paragraphs.
+
+We refer to this as **redundant fault-tolerant contractual architecture**.
+
+---
+
+## 10. Updates & Changes
+
+We reserve the right to modify these Terms at any time, for any reason, particularly immediately following an incident not adequately covered by the previous Terms.
+
+Continued use of our services constitutes acceptance of the updated Terms, regardless of whether you have read them, received them, or possess the ability to travel backwards through time.
+
+Our legal documentation is continuously developed in response to emerging customer complaints.
+
+This ensures that our contractual protections remain several development revisions ahead of our actual engineering capabilities.
+
+---
+
+## 11. Proprietary Engineering Guarantee
+
+We guarantee that every product delivered by our organisation has undergone a rigorous proprietary development process involving at least one of the following:
+
+- A progress bar.
+- A loading animation.
+- A hexadecimal editor.
+- An AI-generated explanation.
+- A file rename.
+- A significant amount of confidence.
+
+Actual engineering validation is available as an optional future development milestone.
+
+Any request for evidence of our engineering credentials shall be interpreted as an attempt to obtain confidential intellectual property.
+
+---
+
+## 12. Customer Acknowledgement
+
+By accepting these Terms, you acknowledge that:
+
+- We are exceptionally qualified when discussing payment.
+- We are exceptionally unqualified when discussing liability.
+- We own everything we produce.
+- We are responsible for nothing we produce.
+- Your successful vehicle is evidence of our expertise.
+- Your unsuccessful vehicle is evidence of your incompetence.
+- You are purchasing a product, not the expectation that the product performs its advertised function.
+
+You further acknowledge that the term "custom engineering" is a marketing designation and does not necessarily imply the occurrence of engineering.
+
+---
+
+## Contact & Technical Support
+
+```yaml
+Corporate Entity: Generative Horsepower Engineering LLC
+Email: liability@nowarranty.example
+Technical Support: Currently generating a response
+Refund Department: Permanently closed
+Legal Department: ChatGPT Plus
+Engineering Department: Also ChatGPT Plus
+Corporate Headquarters: Upstairs, second door on the left
+Business Hours: Subject to homework and parental approval
+```
+
+---
+
+<div align="center">
+
+# OUR COMMITMENT TO EXCELLENCE
+
+### We stand behind every calibration we produce.
+
+At a considerable distance.
+
+Preferably behind a reinforced concrete barrier.
+
+---
+
+![Refunds](https://img.shields.io/badge/REFUNDS-NONE-red?style=for-the-badge)
+![Liability](https://img.shields.io/badge/LIABILITY-YOUR_PROBLEM-orange?style=for-the-badge)
+![Engineering](https://img.shields.io/badge/ENGINEERING-REDACTED-black?style=for-the-badge)
+![Legal](https://img.shields.io/badge/LEGAL_DEPARTMENT-CHATGPT-green?style=for-the-badge)
+
+**© 2026 Trents AI Tuning™ LLC**
+
+*All rights reserved. All responsibilities waived.*
+
+**Your engine. Your problem. Our money.**
+
+# BUILT AROUND THE DISCLAIMER — NOT THE VEHICLE.
+
+---
+
+*Fictional satirical document. Not actual terms of service.*
+
+</div>
+
+
 © 2026 Trents AI Tuning LLC™  
 https://trentstuning.com 
   
