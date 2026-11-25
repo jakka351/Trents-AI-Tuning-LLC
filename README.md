@@ -1,6 +1,3 @@
-# Trents-AI-Tuning-LLC
-Slop Tier AI Tuning Expert Unqualified Engineer
-
 # 🧠 TRENTS AI TUNING LLC - THE TUNING OF THE FUTURE - YESTERDAY™
 
 <div align="center">
