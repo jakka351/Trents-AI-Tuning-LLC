@@ -27,7 +27,6 @@
 
 # Intellectual Property & Extremely Serious Engineering Disclaimer
 
-<br/
 <sup>  
 This document, all of the engineering work allegedly behind it, and the approximately 47 ChatGPT conversations required to produce it are the sacred intellectual property of Trent’s Tuning LLC, authored by Trenton Hill with the assistance of a blinking cursor and the unwavering confidence of someone who has successfully opened a binary file in a hex editor.    <br/>
  <br/> 
