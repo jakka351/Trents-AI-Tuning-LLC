@@ -26,38 +26,40 @@
 # Intellectual Property & Extremely Serious Engineering Disclaimer
 
 <sup>  
-This document, all of the engineering work allegedly behind it, and the approximately 47 ChatGPT conversations required to produce it are the sacred intellectual property of Trent’s Tuning LLC, authored by Trenton Hill with the assistance of a blinking cursor and the unwavering confidence of someone who has successfully opened a binary file in a hex editor.
+This document, all of the engineering work allegedly behind it, and the approximately 47 ChatGPT conversations required to produce it are the sacred intellectual property of Trent’s Tuning LLC, authored by Trenton Hill with the assistance of a blinking cursor and the unwavering confidence of someone who has successfully opened a binary file in a hex editor.   
   
-Copyright © 2026 Trent’s Tuning LLC. All rights reserved. All wrongs pending investigation.
+Copyright © 2026 Trent’s Tuning LLC. All rights reserved. All wrongs pending investigation.  
   
-You are welcome to read this document, admire its formatting, and marvel at the sheer number of technical acronyms. You may not copy it, repackage it, resell it, or feed it back into the same large language model from which it may or may not have originated.
+You are welcome to read this document, admire its formatting, and marvel at the sheer number of technical acronyms. You may not copy it, repackage it, resell it, or feed it back into the same large language model from which it may or may not have originated.  
   
-Under no circumstances should anyone independently discover publicly documented engineering concepts without first obtaining written permission from Trent's Tuning LLC, the internationally self-appointed custodian of the internal combustion engine.
+Under no circumstances should anyone independently discover publicly documented engineering concepts without first obtaining written permission from Trent's Tuning LLC, the internationally self-appointed custodian of the internal combustion engine.  
 
 </sup>  
 
 # Proprietary Technology & Matters of National Security
   
 <sup>   
-Several topics in this reference are marked REDACTED. This highly sophisticated information security methodology conveniently allows the author to imply an extraordinary depth of technical understanding without suffering the administrative inconvenience of demonstrating any of it.
+Several topics in this reference are marked REDACTED. This highly sophisticated information security methodology conveniently allows the author to imply an extraordinary depth of technical understanding without suffering the administrative inconvenience of demonstrating any of it.  
+      
+The following technologies are classified at the highest level of suburban driveway security:  
+
+```
+  Bootloader: REDACTED — Knows approximately where it lives. Has seen it mentioned on a forum.  
     
-The following technologies are classified at the highest level of suburban driveway security:
-  
-Bootloader: REDACTED — Knows approximately where it lives. Has seen it mentioned on a forum.
-  
-Operating system kernel: REDACTED — Cannot elaborate without accidentally describing something from Wikipedia.
-  
-Module reading and writing: REDACTED — Purchased separately from an established tool manufacturer.
-  
-Security access and seed/key exchange: REDACTED — The seed is known. The key remains an emotionally sensitive subject.
-   
-Firmware validation and checksums: REDACTED — Sometimes the file goes in. Sometimes it doesn't.
-  
-Custom operating system: REDACTED — The word “custom” is doing an extraordinary amount of heavy lifting here.
-  
-Switchable calibration maps: REDACTED — Multiple tables, exponentially more intellectual property notices.
-  
-Bidirectional controls: REDACTED — Information goes in both directions, unlike the flow of technical knowledge throughout this document.
+  Operating system kernel: REDACTED — Cannot elaborate without accidentally describing something from Wikipedia.   
+    
+  Module reading and writing: REDACTED — Purchased separately from an established tool manufacturer.  
+    
+  Security access and seed/key exchange: REDACTED — The seed is known. The key remains an emotionally sensitive subject.  
+     
+  Firmware validation and checksums: REDACTED — Sometimes the file goes in. Sometimes it doesn't.  
+    
+  Custom operating system: REDACTED — The word “custom” is doing an extraordinary amount of heavy lifting here.  
+    
+  Switchable calibration maps: REDACTED — Multiple tables, exponentially more intellectual property notices.  
+    
+  Bidirectional controls: REDACTED — Information goes in both directions, unlike the flow of technical knowledge throughout this document.  
+```
   
 The objective of this reference is to educate tuners and students about the genuine inner workings of these truck computers, whilst carefully avoiding the inclusion of anything that would constitute an actual explanation of the genuine inner workings of these truck computers.
   
