@@ -34,7 +34,7 @@ Copyright © 2026 Trent’s AI Tuning LLC. All rights reserved. All wrongs pendi
   <br/> 
 You are welcome to read this document, admire its formatting, and marvel at the sheer number of technical acronyms. You may not copy it, repackage it, resell it, or feed it back into the same large language model from which it may or may not have originated.   <br/>
    <br/>
-Under no circumstances should anyone independently discover publicly documented engineering concepts without first obtaining written permission from Trent's Tuning LLC, the internationally self-appointed custodian of the internal combustion engine.  <br/>
+Under no circumstances should anyone independently discover publicly documented engineering concepts without first obtaining written permission from Trent's AI Tuning LLC, the internationally self-appointed custodian of the internal combustion engine.  <br/>
 
  <br/> <br/> <br/>
 
