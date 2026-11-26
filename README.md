@@ -1,4 +1,4 @@
-# 🧠 TRENTS AI TUNING LLC - REVERSE ENGINEERING THE FUTURE INTO MECHANICAL FAILURE™
+# 🧠 TRENTS AI TUNING LLC™ - Reverse Engineering the Future of Mechanical Failure🧠
 
 <div align="center">
 
