@@ -35,9 +35,9 @@ Through the strategic implementation of cutting-edge conversational artificial i
 
 Other tuners spend thousands of dollars on engineering degrees, dynamometers, instrumentation and professional development.
 
-*I spend $20 a month on ChatGPT.*
+***I spend $20 a month on ChatGPT.***
 
-*We are not the same.*
+***We are not the same.***
 
 Every calibration is meticulously developed around the exact vehicle configuration, including:
 
