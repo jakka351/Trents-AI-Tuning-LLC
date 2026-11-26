@@ -22,60 +22,8 @@
 **Independent Automotive Strategy Researcher | Founder | CEO | Year 10**
 
 </div>
-<br/>
-
 
 ---
-
-# Intellectual Property & Extremely Serious Engineering Disclaimer
-
-This document, all of the engineering work allegedly behind it, and the approximately 47 ChatGPT conversations required to produce it are the sacred intellectual property of Trent’s AI Tuning LLC, authored by Trenton "AI" Hill with the assistance of a blinking cursor and the unwavering confidence of someone who has successfully opened a binary file in a hex editor.    <br/>
- <br/> 
-Copyright © 2026 Trent’s AI Tuning LLC. All rights reserved. All wrongs pending investigation.   <br/>
-  <br/> 
-You are welcome to read this document, admire its formatting, and marvel at the sheer number of technical acronyms. You may not copy it, repackage it, resell it, or feed it back into the same large language model from which it may or may not have originated.   <br/>
-   <br/>
-Under no circumstances should anyone independently discover publicly documented engineering concepts without first obtaining written permission from Trent's AI Tuning LLC, the internationally self-appointed custodian of the internal combustion engine.  <br/>
-
- <br/> <br/> <br/>
-
-
-# Proprietary Technology & Matters of National Security
-
-  <br/> 
-Several topics in this reference are marked REDACTED. This highly sophisticated information security methodology conveniently allows the author to imply an extraordinary depth of technical understanding without suffering the administrative inconvenience of demonstrating any of it.   <br/>
-       <br/>
-The following technologies are classified at the highest level of suburban driveway security:  
-
-```
-  Bootloader: REDACTED — Knows approximately where it lives. Has seen it mentioned on a forum.  
-    
-  Operating system kernel: REDACTED — Cannot elaborate without accidentally describing something from Wikipedia.   
-    
-  Module reading and writing: REDACTED — Purchased separately from an established tool manufacturer.  
-    
-  Security access and seed/key exchange: REDACTED — The seed is known. The key remains an emotionally sensitive subject.  
-     
-  Firmware validation and checksums: REDACTED — Sometimes the file goes in. Sometimes it doesn't.  
-    
-  Custom operating system: REDACTED — The word “custom” is doing an extraordinary amount of heavy lifting here.  
-    
-  Switchable calibration maps: REDACTED — Multiple tables, exponentially more intellectual property notices.  
-    
-  Bidirectional controls: REDACTED — Information goes in both directions, unlike the flow of technical knowledge throughout this document.  
-```
-
-   <br/>
-The objective of this reference is to educate tuners and students about the genuine inner workings of these truck computers, whilst carefully avoiding the inclusion of anything that would constitute an actual explanation of the genuine inner workings of these truck computers. <br/>
-   <br/>
-Readers seeking further technical clarification are encouraged to consult the original semiconductor documentation, established engineering literature, or simply ask ChatGPT themselves and eliminate the middleman. <br/>
-   <br/>
-Trent's AI Tuning LLC remains committed to advancing the automotive engineering industry through proprietary terminology, aggressive copyright declarations, strategic redaction and the revolutionary practice of confusing knowing about something with knowing how it works. <br/>
-   <br/>
-Engineered in theory. Validated in conversation. Protected by confidence. <br/>
-   <br/>
-
- <br/>
 
 # 🧠 About Me
 
@@ -413,8 +361,51 @@ Please allow additional time for technical enquiries requiring an image to be up
 
 </div>
 
----
 
+# Intellectual Property & Extremely Serious Engineering Disclaimer
+
+This document, all of the engineering work allegedly behind it, and the approximately 47 ChatGPT conversations required to produce it are the sacred intellectual property of Trent’s AI Tuning LLC, authored by Trenton "AI" Hill with the assistance of a blinking cursor and the unwavering confidence of someone who has successfully opened a binary file in a hex editor.    <br/>
+ <br/> 
+Copyright © 2026 Trent’s AI Tuning LLC. All rights reserved. All wrongs pending investigation.   <br/>
+  <br/> 
+You are welcome to read this document, admire its formatting, and marvel at the sheer number of technical acronyms. You may not copy it, repackage it, resell it, or feed it back into the same large language model from which it may or may not have originated.   <br/>
+   <br/>
+Under no circumstances should anyone independently discover publicly documented engineering concepts without first obtaining written permission from Trent's AI Tuning LLC, the internationally self-appointed custodian of the internal combustion engine.  <br/>
+
+# Proprietary Technology & Matters of National Security
+
+Several topics in this reference are marked REDACTED. This highly sophisticated information security methodology conveniently allows the author to imply an extraordinary depth of technical understanding without suffering the administrative inconvenience of demonstrating any of it.   <br/>
+       <br/>
+The following technologies are classified at the highest level of suburban driveway security:  
+
+```
+  Bootloader: REDACTED — Knows approximately where it lives. Has seen it mentioned on a forum.  
+    
+  Operating system kernel: REDACTED — Cannot elaborate without accidentally describing something from Wikipedia.   
+    
+  Module reading and writing: REDACTED — Purchased separately from an established tool manufacturer.  
+    
+  Security access and seed/key exchange: REDACTED — The seed is known. The key remains an emotionally sensitive subject.  
+     
+  Firmware validation and checksums: REDACTED — Sometimes the file goes in. Sometimes it doesn't.  
+    
+  Custom operating system: REDACTED — The word “custom” is doing an extraordinary amount of heavy lifting here.  
+    
+  Switchable calibration maps: REDACTED — Multiple tables, exponentially more intellectual property notices.  
+    
+  Bidirectional controls: REDACTED — Information goes in both directions, unlike the flow of technical knowledge throughout this document.  
+```
+
+The objective of this reference is to educate tuners and students about the genuine inner workings of these truck computers, whilst carefully avoiding the inclusion of anything that would constitute an actual explanation of the genuine inner workings of these truck computers. <br/>
+   <br/>
+Readers seeking further technical clarification are encouraged to consult the original semiconductor documentation, established engineering literature, or simply ask ChatGPT themselves and eliminate the middleman. <br/>
+   <br/>
+Trent's AI Tuning LLC remains committed to advancing the automotive engineering industry through proprietary terminology, aggressive copyright declarations, strategic redaction and the revolutionary practice of confusing knowing about something with knowing how it works. <br/>
+   <br/>
+Engineered in theory. Validated in conversation. Protected by confidence. <br/>
+   <br/>
+
+---
 
 # TERMS OF SERVICE
 ### TRENT"S AI TUNING™ LLC
