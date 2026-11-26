@@ -1,6 +1,6 @@
 # 🧠 TRENTS AI TUNING LLC™ - Liability-Averse Engineering & Future Tuner 🧠
 
-***Winner of the Michigan State Engine Calibrators Association's "Tuner of the Century" award***  *(I'm the only member) and internationally self-appointed custodian of the internal combustion engine*
+***Winner of the Michigan State Engine Calibrators Association's "Tuner of the Century" award***  * and internationally self-appointed custodian of the internal combustion engine*
 
 <div align="center">
 
